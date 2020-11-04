@@ -1,4 +1,4 @@
-## FPLScraper
+## EPL Tracker
 
 Scrapes from Understat and the FPL API and combines player data into one table. Outputs to DOC, CSV and SQLITE.
 
